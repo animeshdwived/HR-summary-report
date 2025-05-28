@@ -46,3 +46,4 @@ The objective of this project is to design an interactive HR Summary Dashboard u
 	•	Uploaded the project files to GitHub for portfolio/demo purposes.
 
 ## Dashboard
+![hr_summary_report](https://github.com/user-attachments/assets/9124867b-b99c-439c-bcfa-002933632390)
